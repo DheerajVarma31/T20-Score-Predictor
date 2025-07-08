@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+C:\Users\dheer\T20-Score-Predictor\X_test.pkl
+C:\Users\dheer\T20-Score-Predictor\X_train.pkl
+C:\Users\dheer\T20-Score-Predictor\y_test.pkl
+C:\Users\dheer\T20-Score-Predictor\y_train.pkl
+C:\Users\dheer\T20-Score-Predictor\pipe.pkl
+C:\Users\dheer\T20-Score-Predictor\final_df.pkl
+C:\Users\dheer\T20-Score-Predictor\dataset_level1.pkl
+C:\Users\dheer\T20-Score-Predictor\dataset_level2.pkl
